@@ -1,14 +1,14 @@
 # CHIP-8 Disassembler in C++ </br>
 
 ## Written by Matthew Tennis </br>
-## matthewtennisypr@gmail.com </br>
+#### matthewtennisypr@gmail.com </br>
 
 This is my first real program written in C++ and reflects a multi-front learning curve. 
 
 [+] The following program is a disassembler for CHIP-8 ROMs and binaries. </br>
 [+] The following sources were used and referenced for specifications:</br>
-  [++] http://devernay.free.fr/hacks/chip8/C8TECH10.HTM</br>
-  [++] https://en.wikipedia.org/wiki/CHIP-8</br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[++] http://devernay.free.fr/hacks/chip8/C8TECH10.HTM</br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[++] https://en.wikipedia.org/wiki/CHIP-8</br>
   [++] https://github.com/badlogic/chip8/tree/master/roms (for ROM input)</br>
 [+] Target operating system: Ubuntu 16.04.2 LTS xenial (little endian system)</br>
 [+] This program is written in C++ and compiled on g++ 5.4.0</br>
