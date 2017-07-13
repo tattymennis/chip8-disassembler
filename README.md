@@ -16,9 +16,8 @@ This is my first real program written in C++ and reflects a multi-front learning
 
 [+] Compilation
   [++] Either run the Bash script provided: ./compile.sh
-  [++] Or manually enter: g++ -Wall -Wextra -Werror --std=c++0x -o NAME main.cpp
-       where NAME is the desired executable name.
-     [+++] Variance on compiler arguments have not been tested, and omitting the --std=c++0x switch will result in failure to compile.
+  [++] Or manually enter: g++ -Wall -Wextra -Werror --std=c++0x -o NAME main.cpp where NAME is the desired executable name.
+  [+++] Variance on compiler arguments have not been tested, and omitting the --std=c++0x switch will result in failure to compile.
 
 [+] Execution
   [++] ROMs have been provided for testing in roms/
