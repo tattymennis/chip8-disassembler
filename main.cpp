@@ -33,9 +33,6 @@ int main(int argc, char * argv[]) {
 
             printBanner(name,size);
 
-            // move 200 bytes into file, skipping interpreter
-            //ifile.seekg(512, ios::beg);
-
             // move to beginning of file
             ifile.seekg(0, ios::beg);
 
